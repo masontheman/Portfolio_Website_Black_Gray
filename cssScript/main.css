@@ -1,0 +1,91 @@
+body, html{
+    height: 100%;
+    margin: 0px;
+    background-color: black;
+    color: white;
+}
+article{
+    color:rgb(194, 193, 193);
+    padding: 1%;
+}
+li{
+    color: white;
+    float: left;
+    
+}
+nav li{
+    display: inline;
+    padding: 20px 20px;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(39, 39, 39);
+}
+.a{
+    padding: 0;
+    margin: 0;
+}
+input[type=text], select, textarea{
+    width: 30%;
+    padding: 2px 2px;
+    box-sizing: border-box;
+    resize: none;
+    outline: none;
+    
+}
+a:link{
+    text-decoration: none;
+}
+.b{
+    padding-left: 30%;
+}
+p{
+    padding-left: 1%;
+}
+.c{
+    padding-top: 4px;
+    padding-bottom: 0px;
+}
+.d{
+    background-color: black;
+    padding-left: 10px;
+    margin: 10px;
+    overflow: none;
+}
+.f{
+    background-color: black;
+}
+
+.g{
+    display: inline;
+    list-style: none;
+}
+.e{
+    padding-left: 100px;
+}
+.h{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+.y{
+    width: 50%;
+}
+.column {
+    float: left;
+    padding: 10px;
+  }
+.z{
+    display: inline;
+    padding: 20px
+} 
+form{
+    size: 1000px;
+}
+textarea{
+    width: 40%;
+}
